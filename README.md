@@ -1,4 +1,5 @@
-# ![http://www.linkedin.com/in/alicia-lozoya)
+# ![http://www.linkedin.com/in/alicia-lozoya](https://github.com/aliccialc/aliccialc/blob/ac0b28aeee9695531e06344cc59d8059ce2c1d21/aliccialc%20emoji.jpeg) Hola mi nombre es Alicia Lozoya
+### Analista de Datos
 
 
 🔭 I’m currently looking for a job as a Data Analyst or Bioinformatics
